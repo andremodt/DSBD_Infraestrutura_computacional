@@ -1,4 +1,4 @@
-Meu primeiro arquivo de texto dentro do git :)
+Meu primeiro arquivo de texto dentro do git :) :( alterei a primeira linha
 
 Agora eu tenho uma linha a mais :D
 
